@@ -1,0 +1,1 @@
+# **The Environmental Science Major** {#the-environmental-science-major}
