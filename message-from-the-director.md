@@ -1,8 +1,4 @@
-# IoES Student Handbook {#student-handbook}
-
-## B.S. in Environmental Science  2017-18 Handbook
-
-**You Live in the Age of Environmental Science – Seize It**
+## Message from the IoES director
 
 You have all heard or read the mantra – billions more people to be added to the planet, water scarcity, global warming, species going extinct, and on and on. It makes one wonder, what is the point. At IoES we see that gloomy mantra as a challenge, not a forecast or prophecy. There are more green business jobs than ever before. Venture capital funds and pension funds are investing in sustainable businesses all around the world. The Kentucky Coal Museum has installed solar panels for its energy. Cities are expanding urban parks at an unprecedented rate. Los Angeles is starting the most ambitious river restoration project ever undertaken in the world. The 2028 Olympics hosted in Los Angeles will leave a legacy of sustainability in one of the most biodiverse and culturally diverse corners of the world.
 
@@ -14,6 +10,4 @@ Best of luck on what will surely be a tortuous journey. A straight line might be
 
 Peter Kareiva  
 IoES Director
-
-
 

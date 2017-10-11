@@ -1,44 +1,31 @@
 # Summary
 
-* [Student Handbook](README.md)
+* [IoES Student Handbook](README.md)
+* [About the IoES](about-the-ioes.md)
 * [Student Resources](student_resources/README.md)
   * [People](student_resources/people.md)
   * [Web Resources](student_resources/web_resources.md)
   * [Course Information](student_resources/course_information.md)
-
   * [Campus Student Services](student_resources/campus_student_services.md)
   * [Scholarships & Financial Aid](student_resources/scholarships_&_financial_aid.md)
   * [Other UCLA Student Services Links](student_resources/other_ucla_student_services_links.md)
-
 * [The Environmental Science Major](the_environmental_science_major/README.md)
   * [About The Major](the_environmental_science_major/about_the_major.md)
   * [Declaring the Major](the_environmental_science_major/declaring_the_major.md)
-
   * [The Preparatory Courses](the_environmental_science_major/the_preparatory_courses.md)
-
   * [Upper-Division Major Requirements](the_environmental_science_major/upper-division_major_requirements.md)
-
   * [Senior Practicum](the_environmental_science_major/senior_practicum.md)
-
   * [Minor/Concentrations](the_environmental_science_major/minorconcentrations.md)
-
   * [Special Opportunities](the_environmental_science_major/special_opportunities.md)
-
 * [Research Opportunities](research_opportunities/README.md)
   * [Beyond the Practicum](research_opportunities/beyond_the_practicum.md)
   * [Honors in Environmental Science](research_opportunities/honors_in_environmental_science.md)
-
 * [Getting Involved](getting_involved/README.md)
   * [On Campus](getting_involved/on_campus.md)
   * [Off Campus ](getting_involved/off_campus.md)
-
 * [Appendix](appendix/README.md)
   * [Environmental Science Official Catalog Description](appendix/environmental_science_official_catalog_description.md)
-
   * [Honors Program](appendix/honors_program.md)
-
   * [Practicum substitution requests guidelines](appendix/practicum_substitution_requests_guidelines.md)
   * [Policies and Policies and Procedures](appendix/policies_and_policies_and_procedures.md)
-
-
 
