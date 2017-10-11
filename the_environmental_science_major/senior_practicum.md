@@ -1,7 +1,5 @@
 ## **Senior Practicum** {#senior-practicum}
 
-### 
-
 ### Overview {#overview}
 
 The three-quarter Practicum in Environmental Science is the capstone educational experience required of all environmental science majors and represents a significant departure from conventional teaching and learning experiences at UCLA.
@@ -18,8 +16,8 @@ In the first quarter of the capstone sequence, students attend lectures and pres
 
 Course work for the 180A class includes two major components:
 
-*   A lab based introduction to data handling, basic statistics and data exploration, and spatial analysis using Geographic Information Systems (GIS). Labs, which focus on the application of these tools to environmental problem solving, meet once per week, but students should expect to spend 6-8 hours per week outside of scheduled lab time completing assignments.
-*   The literature review – after being assigned to a Practicum project, students conduct independent literature reviews of recent scientific and policy research on a specific aspect of their project topic. Students effectively ask the question “what do we know, or not know about a particular issue?” This differs from most research papers or essays students have written in previous classes; the literature review does not involve developing and supporting a thesis. Instead, students conduct a critical analysis on the current state of research, including reviewing any gaps in knowledge and problems with research methodologies, or any controversies or major disagreements in the field, to prepare themselves for tackling their Practicum project in 180B/C.
+* A lab based introduction to data handling, basic statistics and data exploration, and spatial analysis using Geographic Information Systems \(GIS\). Labs, which focus on the application of these tools to environmental problem solving, meet once per week, but students should expect to spend 6-8 hours per week outside of scheduled lab time completing assignments.
+* The literature review – after being assigned to a Practicum project, students conduct independent literature reviews of recent scientific and policy research on a specific aspect of their project topic. Students effectively ask the question “what do we know, or not know about a particular issue?” This differs from most research papers or essays students have written in previous classes; the literature review does not involve developing and supporting a thesis. Instead, students conduct a critical analysis on the current state of research, including reviewing any gaps in knowledge and problems with research methodologies, or any controversies or major disagreements in the field, to prepare themselves for tackling their Practicum project in 180B/C.
 
 ### 180B/C: Winter and Spring Quarters {#180b-c-winter-and-spring-quarters}
 
@@ -31,11 +29,11 @@ During winter and spring, students work as a team on their client-based environm
 
 Students will be faced with needing to conduct and coordinate work, by multiple team members, on multiple tracks at once, and over a limited timeframe. This is similar to situations encountered in the professional world, where preliminary research may be conducted while efforts to finalize a project framework or proposal are still being completed. In broad terms, it will be important for the success of each project that:
 
-*   Students operate independently as a professional team;
-*   All parties develop a high level of trust and spirit of collaboration;
-*   Students and faculty are responsive to clients while conducting independent research;
-*   Communication among team members and between parties is professional and frequent; and
-*   Possibly most importantly, students feel comfortable to make decisions, make mistakes, and learn from the experience.
+* Students operate independently as a professional team;
+* All parties develop a high level of trust and spirit of collaboration;
+* Students and faculty are responsive to clients while conducting independent research;
+* Communication among team members and between parties is professional and frequent; and
+* Possibly most importantly, students feel comfortable to make decisions, make mistakes, and learn from the experience.
 
 Students should expect to devote 12-15 hours a week, on average, to their group project, although more hours in any specific week can be expected depending on the particular needs of each project. This time includes class meeting time and field trips as appropriate for each project. Importantly, to avoid excess workload during spring quarter, each team will need to ensure that progress on their group projects is evenly allocated over the two quarters.
 
@@ -43,10 +41,11 @@ Students should expect to devote 12-15 hours a week, on average, to their group 
 
 While the capstone Practicum sequence is the expected path for all environmental science majors, we recognize there may be circumstances that require a student to substitute other coursework or research in lieu of completing part or all of the Practicum program. Any substitution will require a petition to the IoES Academic Committee, and will be evaluated on an individual basis. Please see below for an overview of general IoES policy regarding potential substitutions.
 
-*   In order to substitute any portion of the Practicum, students must be in good academic standing and maintain at least a 3.0 GPA in the major.
-*   All students are expected to complete 180A, the fall Practicum class and associated GIS labs. Students may petition to substitute an independent study course for 180A where the student 1) plans to substitute coursework or independent research for the 180B/C sequence in place of a Practicum project, and 2) the student has completed at least an approved introductory GIS course. In this case, and upon an approved petition, the student will be required to complete a literature review paper for credit as independent study. All students who have not previously completed an approved GIS course, however, should plan to enroll in 180A.
-*   Students may petition to substitute a variety of potential field courses or independent research projects in place of 180B/C and completion of a Practicum project. Programs that have previously been approved for substitution include:
-    *   Participation in the Marine Biology Quarter (MBQ) or Field Biology Quarter (FBQ) programs through the Department of Ecology and Evolutionary Biology.
-    *   Completion of the UC Natural Reserve System field course (taken in any term, including summer).
+* In order to substitute any portion of the Practicum, students must be in good academic standing and maintain at least a 3.0 GPA in the major.
+* All students are expected to complete 180A, the fall Practicum class and associated GIS labs. Students may petition to substitute an independent study course for 180A where the student 1\) plans to substitute coursework or independent research for the 180B/C sequence in place of a Practicum project, and 2\) the student has completed at least an approved introductory GIS course. In this case, and upon an approved petition, the student will be required to complete a literature review paper for credit as independent study. All students who have not previously completed an approved GIS course, however, should plan to enroll in 180A.
+* Students may petition to substitute a variety of potential field courses or independent research projects in place of 180B/C and completion of a Practicum project. Programs that have previously been approved for substitution include:
+  * Participation in the Marine Biology Quarter \(MBQ\) or Field Biology Quarter \(FBQ\) programs through the Department of Ecology and Evolutionary Biology.
+  * Completion of the UC Natural Reserve System field course \(taken in any term, including summer\).
 
 Complete guidelines for Practicum Substitution requests can be found in the Appendix.
+
