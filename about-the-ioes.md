@@ -1,4 +1,4 @@
-## About IoES {#about-ioes}
+## About the IoES {#about-ioes}
 
 The mission of the UCLA Institute of the Environment and Sustainability \(IoES\) is to advance cross-disciplinary research, teaching, and public service on environmental matters of critical importance. The environment is defined broadly to include the interrelated issues of global climate change, loss of biological diversity, and threats to human health and well-being from the use and misuse of natural resources. We apply the tools of scientific and policy analysis, as well as moral and aesthetic values, to our endeavors.
 
