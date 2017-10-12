@@ -6,7 +6,7 @@ The classroom portion of the degree is rooted in physical and life sciences, inc
 
 ### Interdisciplinary Major {#interdisciplinary-major}
 
-The study and practice of environmental science are by nature interdisciplinary pursuits, and the B.S. program draws on strong connections across numerous departments at UCLA that all touch on the environmental science field. At their core, environmental issues are human issues. Rooted in life and physical sciences, our curriculum also features multiple classes in social sciences and humanities—subjects such as public policy, politics, journalism, and environmental justice. This gives students a broad perspective and tools to take on today’s most complex, urgent environmental challenges.Students will take upper division courses in areas covering:
+The study and practice of environmental science are by nature interdisciplinary pursuits, and the B.S. program draws on strong connections across numerous departments at UCLA that all touch on the environmental science field. At their core, environmental issues are human issues. Rooted in life and physical sciences, our curriculum also features multiple classes in social sciences and humanities&mdash;subjects such as public policy, politics, journalism, and environmental justice. This gives students a broad perspective and tools to take on today’s most complex, urgent environmental challenges. Students will take upper division courses in areas covering:
 
 *   Atmospheric and Water Science
 *   Climate Science

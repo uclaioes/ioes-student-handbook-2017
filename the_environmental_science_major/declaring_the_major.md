@@ -1,4 +1,4 @@
-## **Declaring the Major** {#declaring-the-major}
+## Declaring the Major {#declaring-the-major}
 
 For students who enter UCLA as freshmen, declaring the Environmental Science major is usually a relatively simple matter.
 

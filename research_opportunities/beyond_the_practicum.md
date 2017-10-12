@@ -1,4 +1,4 @@
-## **Beyond the Practicum** {#beyond-the-practicum}
+## Beyond the Practicum {#beyond-the-practicum}
 
 All environmental science students participate in the Senior Practicum, the year-long capstone program that pairs teams of seniors with real-world clients to deliver science-based solutions for pressing environmental issues (see, Practicum). As exceptional as that experience is, some students choose to go beyond the Practicum by getting directly involved in research being conducted by UCLA’s world-class faculty. We encourage you to explore different possibilities available on campus.
 
@@ -28,7 +28,7 @@ If you are more certain of your academic goals, we encourage you to directly app
 
 The best way to get to know faculty is to take a class, if possible, and be an active participant. Ask relevant questions in class, go to office hours to discuss your interest in the material, and of course, do well in the class. Most faculty find their undergraduate research assistants from the students they know. If it’s not possible to take a class with a faculty member, _do your research on their research_. You can look up a lot of information online. IoES has an extensive “People” section with useful biographies, descriptions of research interests, and links to faculty CVs and publications.
 
-Above all, if you are seeking a research position, don’t be too shy to ask! Don’t worry – faculty expect to be approached about their research and opportunities they might have for students. Be prepared when you do approach them - do not go in and ask “what research do you do?”, read their website and papers for yourself and go in with enthusiasm for what they do. Ask them at least one really good question about their work, or even better, pitch a new idea. Yes, you will have ideas they have not thought of! And even if they have thought of it, they will be impressed.
+Above all, if you are seeking a research position, don’t be too shy to ask! Don’t worryfaculty expect to be approached about their research and opportunities they might have for students. Be prepared when you do approach them - do not go in and ask “what research do you do?”, read their website and papers for yourself and go in with enthusiasm for what they do. Ask them at least one really good question about their work, or even better, pitch a new idea. Yes, you will have ideas they have not thought of! And even if they have thought of it, they will be impressed.
 
 Not sure where to start? Take a look at the [IoES research centers](https://www.ioes.ucla.edu/centers-and-initiatives/) or extensive [network of other sustainability-related UCLA research centers](https://www.sustain.ucla.edu/our-initiatives/education-and-research/research-centers/) to find faculty working in an area of your greatest interest.
 
