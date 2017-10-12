@@ -1,7 +1,8 @@
 # Summary
 
 * [IoES Student Handbook](README.md)
-* [About the IoES](about-the-ioes.md)
+  * [Welcome from director](message-from-the-director.md)
+  * [About the IoES](about-the-ioes.md)
 * [Student Resources](student_resources/README.md)
   * [People](student_resources/people.md)
   * [Web Resources](student_resources/web_resources.md)

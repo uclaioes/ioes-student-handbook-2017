@@ -1,4 +1,4 @@
-## **The Preparatory Courses** {#the-preparatory-courses}
+## The Preparatory Courses {#the-preparatory-courses}
 
 The preparatory courses for the Environmental Science major are typical for any bachelor’s of science program. The major requires 13 total prep courses. We recommend that students entering UCLA as freshmen take two prep courses each quarter until all 13 are completed, which will satisfy all of the prep requirements by the end of the second year of study.
 
