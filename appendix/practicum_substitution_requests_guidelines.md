@@ -1,5 +1,7 @@
 ## **Practicum substitution requests guidelines** {#practicum-substitution-requests-guidelines}
 
+**Students wishing to pursue an independent research project in lieu of participating on a Practicum team should contact the IoES Practicum Director, Noah Garrison at <ngarrison@ioes.ucla.edu>**
+
 1. Students wishing to pursue an independent project for the practicum must enroll in Environment 180A in fall quarter of the academic year in which you will graduate. There is no substitute available for 180A. This is a stand-alone course that provides a variety of important skills that are not provided elsewhere.
 2. You must be in good academic standing, and have a minimum GPA of 3.0 or better in the major.
 3. You must submit a satisfactory prospectus \(proposal of your project\) to the IoES faculty committee and to your proposed advisor by \[date varies based on date group projects will be assigned\]. The prospectus should be 2-3 pages with references, and include the following components:
@@ -33,45 +35,4 @@ You will need to submit a signed copy of the following contract with your projec
 
 Students whose proposals are rejected by the IoES faculty committee will be placed with 180B/C groups.
 
-**Contract for Substitution of Environment 180B and 180C**
-
-**Student**:
-
-**Name**:
-
-**UID**:
-
-**Email**:
-
-**Project title**:
-
-**Faculty advisor and department**:
-
-**Timeline for project - quarters and year \(detailed outline\)**:
-
-**Faculty advisor**: please read and sign.
-
-_The Environmental Science Practicum goes beyond the scope of a regular independent study_, and it is the responsibility of the faculty advisor to oversee the student and to provide a grade for the student’s work. The project must culminate in a written final project report and an oral presentation of the results. The IoES ultimately determines whether the project is an appropriate substitution for the Practicum.
-
-I hereby provide my support for the outlined project, understand the goals of the Practicum experience, and agree to supervise the student and grade the student’s work:
-
----
-
-Faculty advisor signature and date
-
-Progress report due:
-
-Final paper due:
-
-Date of oral presentation:
-
----
-
-Institute of the Environment signature and date
-
----
-
-Student signature and date
-
-College of Letters & Science
 
