@@ -5,6 +5,7 @@
   * [About the IoES](about-the-ioes.md)
 * [Student Resources](student_resources/README.md)
   * [People](student_resources/people.md)
+  * [Tell Your Story](student_resources/tell_your_story.md)
   * [Web Resources](student_resources/web_resources.md)
   * [Course Information](student_resources/course_information.md)
   * [Campus Student Services](student_resources/campus_student_services.md)
