@@ -27,7 +27,7 @@
     * [Geography/Environmental Studies Minor](the-environmental-science-major/minor-concentrations/geography-environmental-studies-minor.md)
   * [Special Opportunities](the-environmental-science-major/special-opportunities/README.md)
     * [Summer Session](the-environmental-science-major/special-opportunities/summer-session.md)
-    * [Study Abroad](the-environmental-science-major/special-opportunities/travel-aboard.md)
+    * [Study Abroad](the-environmental-science-major/special-opportunities/study-abroad.md)
     * [Double Majors](the-environmental-science-major/special-opportunities/double-majors.md)
 * [Research Opportunities](research-opportunities/README.md)
   * [Beyond the Practicum](research-opportunities/beyond-the-practicum.md)
