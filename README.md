@@ -4,5 +4,5 @@
 
 > ** “You Live in the Age of Environmental Science – Seize It” **
 
-![UCLA IoES](.gitbook/assets/la-river.jpg)
+![](/assets/la-river-1600w.jpg)
 
