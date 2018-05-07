@@ -1,11 +1,8 @@
-# IoES Student Handbook {#student-handbook}
+# IoES Student Handbook
+
 ## Getting your degree in Environmental Science at UCLA
 
-> ** &ldquo;You Live in the Age of Environmental Science – Seize It&rdquo; **
+> ** “You Live in the Age of Environmental Science – Seize It” **
 
-![UCLA IoES](assets/la-river.jpg)
-
-
-
-
+![UCLA IoES](.gitbook/assets/la-river.jpg)
 
