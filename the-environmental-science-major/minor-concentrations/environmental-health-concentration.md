@@ -89,7 +89,7 @@ C185B. Foundations of Environmental Health Sciences for Public Health Profession
 
 **Epidemiology**
 
-1. Principles of Epidemiology. \(4\) Lecture, four hours; discussion, two hours. Preparation: one full biological sciences course. Not open for credit to students with credit for course 200A, 200B, or 200C. Introduction to epidemiology, including factors governing health and disease in populations. Letter grading.
+100. Principles of Epidemiology. \(4\) Lecture, four hours; discussion, two hours. Preparation: one full biological sciences course. Not open for credit to students with credit for course 200A, 200B, or 200C. Introduction to epidemiology, including factors governing health and disease in populations. Letter grading.
 
 
 
